@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main(void) {
     int max, min, num1, num2, num3;
     printf("Enter 3 numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
